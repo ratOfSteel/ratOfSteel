@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, I'm Galina 👋
 
 <!---
 ratOfSteel/ratOfSteel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
